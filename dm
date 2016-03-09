@@ -1,4 +1,3 @@
-<!-- this script got from www.htmlbestcodes.com-Coded by: Krishna Eydat -->
 <html>
 <head>
 </head>
@@ -109,3 +108,4 @@ if (ns4up) {
 <div style="clear:both"></div><div><a target="_blank" href="http://www.htmlbestcodes.com/"><span style="font-size: 8pt; text-decoration: none">HTML Best Codes</span></a></div>
 </body>
 </html>
+
